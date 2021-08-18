@@ -1,5 +1,6 @@
+# <center>  Hello I'm Seunghyo Jo</center>
 <div align="center">
-  ** # Hello I'm Seunghyo Jo🙌 **
+
   ---
   
   
