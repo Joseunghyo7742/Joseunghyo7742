@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Seunghyo%20Jo&fontSize=70&animation=blinking)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Seunghyo%20Jo&fontSize=70&animation=fadeIn)
 
 
 <!--
