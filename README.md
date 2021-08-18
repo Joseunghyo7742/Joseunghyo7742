@@ -1,7 +1,6 @@
 # <center>  Hello I'm Seunghyo Jo</center>
 <div align="center">
-
-  ---
+  # 
   
   
   [![SeunghyoJo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joseunghyo7742)](https://github.com/anuraghazra/github-readme-stats)
