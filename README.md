@@ -2,7 +2,7 @@
 
 
 [![SeunghyoJo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joseunghyo7742)](https://github.com/anuraghazra/github-readme-stats)
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=seunghyoJo)](https://solved.ac/tmdgy7742)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=tmdgy7742)](https://solved.ac/seunghyoJo)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
