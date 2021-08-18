@@ -1,4 +1,4 @@
- #            🙌Hello I'm Seunghyo Jo🙌
+ #           Hello I'm Seunghyo Jo😊
 
 <div align="center">
   
