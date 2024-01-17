@@ -3,14 +3,13 @@
 <div align="center">
   
   
-  
  [![SeunghyoJo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joseunghyo7742)](https://github.com/anuraghazra/github-readme-stats)
  [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=tmdgy7742)](https://solved.ac/seunghyoJo) 
   
-***
+
   
  **✨Main Skills**
-  
+ 
  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
  <img src="https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=next&logoColor=black">
  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -21,8 +20,10 @@
  <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
  <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
  <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white">
- <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
- ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white)
+ <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcn/ui&logoColor=white">
+ <img src="https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white">
+
+ 
  
   
   ----
